@@ -1,0 +1,16 @@
+@echo off
+Z:\
+IMGMOUNT "A" "Windows95\Win95UG\BOOTDISK.IMG" -t "floppy"
+IMGMOUNT "D" "Windows95\Win95UG\DISK01.IMG" -t "floppy"
+IMGMOUNT "E" "Windows95\Win95UG\DISK02.IMG" -t "floppy"
+IMGMOUNT "F" "Windows95\Win95UG\DISK03.IMG" -t "floppy"
+IMGMOUNT "G" "Windows95\Win95UG\DISK04.IMG" -t "floppy"
+IMGMOUNT "H" "Windows95\Win95UG\DISK05.IMG" -t "floppy"
+IMGMOUNT "I" "Windows95\Win95UG\DISK06.IMG" -t "floppy"
+IMGMOUNT "J" "Windows95\Win95UG\DISK07.IMG" -t "floppy"
+IMGMOUNT "K" "Windows95\Win95UG\DISK08.IMG" -t "floppy"
+IMGMOUNT "L" "Windows95\Win95UG\DISK09.IMG" -t "floppy"
+IMGMOUNT "M" "Windows95\Win95UG\DISK10.IMG" -t "floppy"
+IMGMOUNT "N" "Windows95\Win95UG\DISK11.IMG" -t "floppy"
+IMGMOUNT "O" "Windows95\Win95UG\DISK12.IMG" -t "floppy"
+IMGMOUNT "P" "Windows95\Win95UG\DISK13.IMG" -t "floppy"
